@@ -1,7 +1,7 @@
 # Проект_0. Угадай число.
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Yul-Art/SF-DS1/blob/main/Project/README.md#описание-проекта)
+1. [Описание проекта](https://github.com/Yul-Art/SF-DS1/blob/main/Project_0/README.md#описание-проекта)
 2. Какой кейс решаем?
 3. Краткая информация о данных
 4. Этапы работы над проектом
@@ -10,4 +10,4 @@
 
 ### Описание проекта
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_0/README.md#оглавление)
