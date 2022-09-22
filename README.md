@@ -1,7 +1,10 @@
-# SF-DS1
-Проекты:
-* Проект 1:
-* Проект 2:
+# My data science projects
+From the [SkillFactory data science course](https://skillfactory.ru/data-scientist-pro)
 
-## Резюме
+## Проекты:
+
+* [Проект 0. Игра: Угадай число](https://github.com/Yul-Art/SF-DS1/tree/main/Project)
+* Проект 1. :
+
+## Ссылки резюме
 
