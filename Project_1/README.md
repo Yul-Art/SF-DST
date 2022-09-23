@@ -1,17 +1,17 @@
 # Проект_1. Угадай число
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#описание-проекта)
-2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#этапы-работы-над-проектом)
-5. [Результат](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#результаты)
-6. [Выводы](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#выводы)
+1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#этапы-работы-над-проектом)
+5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#результаты)
+6. [Выводы](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#выводы)
 
 ### Описание проекта
 Создание программы, которая угадывает загаданное компьютером число за минимальное количество попыток
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
 
 ### Какой кейс решаем?    
 Нужно написать программу, которая угадывает число меньше, чем за 20 попыток
@@ -28,29 +28,29 @@
 * Учимся работать с IDE
 * Учимся работать с GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
 
 ### Краткая информация о данных
 ....
   
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
 
 ### Этапы работы над проектом  
 * Написание кода
 * Оформление README.md
 * Загрузка кода на GitHub 
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
 
 ### Результаты:  
 Написана программа, которая угадывает число меньше, чем за 20 попыток
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
