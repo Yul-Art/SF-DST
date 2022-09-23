@@ -1,16 +1,17 @@
 # Проект_1. Угадай число.
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#описание-проекта)
-2. Какой кейс решаем?
-3. Краткая информация о данных
-4. Этапы работы над проектом
-5. Результат
-6. Выводы
+1. [Описание проекта](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#этапы-работы-над-проектом)
+5. [Результат](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#результаты)
+6. [Выводы](https://github.com/Yul-Art/SF-DS1/tree/main/Project_1#выводы)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток.
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_0/README.md#оглавление)
+Написать программу, которая угадывает число меньше, чем за 20 попыток
+
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
 
 ### Какой кейс решаем?    
 Нужно написать программу, которая угадывает число меньше, чем за 20 попыток
@@ -27,6 +28,8 @@
 * Учимся работать с IDE
 * Учимся работать с GitHub
 
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
+
 ### Краткая информация о данных
 ....
   
@@ -34,7 +37,7 @@
 
 ### Этапы работы над проектом  
 * Написание кода
-* Оформление кода
+* Оформление README.md
 * Загрузка кода на GitHub 
 
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
@@ -42,12 +45,12 @@
 ### Результаты:  
 Написана программа, которая угадывает число меньше, чем за 20 попыток
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
 
 ### Выводы:  
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_0/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DS1/blob/main/Project_1/README.md#оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
