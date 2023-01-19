@@ -3,7 +3,7 @@
 ## Оглавление
 1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#описание-проекта)
 2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#какой-кейс-решаем)
-3. [Краткая информация о данных]https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
+3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#этапы-работы-над-проектом)
 5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результаты)
 6. [Выводы]()
@@ -44,7 +44,7 @@
 * оформление README.md
 * загрузка проекта на GitHub 
 
-:arrow_up:[к оглавлению]https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 ### Результаты:  
 [Выполненный проект с выводами]()
