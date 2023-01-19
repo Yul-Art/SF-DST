@@ -1,17 +1,17 @@
 # PROJECT-1. Анализ резюме из HeadHunter
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#описание-проекта)
-2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#этапы-работы-над-проектом)
-5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#результаты)
-6. [Выводы](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#выводы)
+1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#какой-кейс-решаем)
+3. [Краткая информация о данных]https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#этапы-работы-над-проектом)
+5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результаты)
+6. [Выводы]()
 
 ### Описание проекта
 Анализ резюме с сайта поиска вакансий HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 ### Какой кейс решаем?    
 Преобразовать, исследовать и очистить данные (база резюме), для дальнейшего построения модели.
@@ -29,12 +29,12 @@
 * Учимся проводить разведывательный анализ
 * Учимся работать с GitHub
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 ### Краткая информация о данных
 [База резюме, выгруженная с сайта поиска вакансий hh.ru](https://drive.google.com/file/d/1POXjXJxjPxK-xaWTxHeP4VGBlZ2jfpJx/view?usp=sharing)
   
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 ### Этапы работы над проектом  
 * базовый анализ структуры данных
@@ -44,12 +44,12 @@
 * оформление README.md
 * загрузка проекта на GitHub 
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению]https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 ### Результаты:  
-Выполненный проект с выводами
+[Выполненный проект с выводами]()
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/Project_1#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 
 
