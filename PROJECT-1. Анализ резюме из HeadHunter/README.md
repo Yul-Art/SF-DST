@@ -5,7 +5,7 @@
 2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#какой-кейс-решаем)
 3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#этапы-работы-над-проектом)
-5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результат)
+5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результат-и-выводы)
 
 
 ### Описание проекта
