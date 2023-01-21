@@ -5,7 +5,7 @@
 2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#какой-кейс-решаем)
 3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#этапы-работы-над-проектом)
-5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результаты)
+5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результат)
 6. [Выводы]()
 
 ### Описание проекта
@@ -33,6 +33,7 @@
 
 ### Краткая информация о данных
 [База резюме, выгруженная с сайта поиска вакансий hh.ru](https://drive.google.com/file/d/1POXjXJxjPxK-xaWTxHeP4VGBlZ2jfpJx/view?usp=share_link)
+
 [Выгрузка курсов валют](https://drive.google.com/file/d/1OrF-jZP9SNEeas4yzCuoqeKEieqpniOt/view?usp=share_link)
   
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
