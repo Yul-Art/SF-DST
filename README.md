@@ -3,9 +3,9 @@ From the [SkillFactory data science course](https://skillfactory.ru/data-scienti
 
 ## Проекты:
 
-* [Проект 0. Игра: Угадай число](https://github.com/Yul-Art/SF-DST/tree/main/Project_0)
-* [Проект 1. Создание программы, которая угадывает загаданное компьютером число за минимальное количество попыток](https://github.com/Yul-Art/SF-DST/tree/main/Project_1)
-* [PROJECT-1. Анализ резюме из HeadHunter]
+* [Проект_0. Игра: Угадай число](https://github.com/Yul-Art/SF-DST/tree/main/Project_0)
+* [PY_13_Визуализация данных](https://github.com/Yul-Art/SF-DST/blob/main/PY13_Data_visualization.ipynb)
+* [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter)
 
 
 ## Ссылки резюме

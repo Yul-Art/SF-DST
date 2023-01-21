@@ -32,7 +32,8 @@
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
 ### Краткая информация о данных
-[База резюме, выгруженная с сайта поиска вакансий hh.ru](https://drive.google.com/file/d/1POXjXJxjPxK-xaWTxHeP4VGBlZ2jfpJx/view?usp=sharing)
+[База резюме, выгруженная с сайта поиска вакансий hh.ru](https://drive.google.com/file/d/1POXjXJxjPxK-xaWTxHeP4VGBlZ2jfpJx/view?usp=share_link)
+[Выгрузка курсов валют](https://drive.google.com/file/d/1OrF-jZP9SNEeas4yzCuoqeKEieqpniOt/view?usp=share_link)
   
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
@@ -46,8 +47,8 @@
 
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
-### Результаты:  
-[Выполненный проект с выводами]()
+### Результат:  
+[Выполненный проект с выводами](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1_HeadHunter_resume_analysis.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
