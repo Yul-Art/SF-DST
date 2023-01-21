@@ -6,7 +6,7 @@
 3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#этапы-работы-над-проектом)
 5. [Результат](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результат)
-6. [Выводы]()
+
 
 ### Описание проекта
 Анализ резюме с сайта поиска вакансий HeadHunter
@@ -48,8 +48,8 @@
 
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
-### Результат:  
-[Выполненный проект с выводами](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1_HeadHunter_resume_analysis.ipynb)
+### Результат и выводы:  
+[PROJECT-1. Анализ резюме из HeadHunter](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1_HeadHunter_resume_analysis.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
 
