@@ -9,4 +9,3 @@ From the [SkillFactory data science course](https://skillfactory.ru/data-scienti
 
 
 ## Ссылки резюме
-
