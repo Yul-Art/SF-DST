@@ -1,17 +1,17 @@
 # PROJECT-2. Анализ вакансий из HeadHunter
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#описание-проекта)
-2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#этапы-работы-над-проектом)
-5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#результат-и-выводы)
+1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#этапы-работы-над-проектом)
+5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#результат-и-выводы)
 
 
 ### Описание проекта
 Анализ вакансий с сайта HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#оглавление)
 
 ### Какой кейс решаем?    
 Исследование и анализ данных на соответствие целям проекта для создания модели машинного обучения.
@@ -34,12 +34,12 @@
 * Учимся правильно писать SQL-запросы к данным и обрабатывать их результаты с помощью Python
 * Учимся делать выводы
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#оглавление)
 
 ### Краткая информация о данных
 [база данных project_sql](http://178.154.241.204:3000/browse/3-project-sql)
  
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#оглавление)
 
 ### Этапы работы над проектом  
 * знакомство с данными
@@ -48,12 +48,12 @@
 * анализ работодателей
 * предметный анализ
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#оглавление)
 
 ### Результат и выводы 
-[PROJECT-2. Анализ вакансий из HeadHunter](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project-1_HeadHunter_resume_analysis.ipynb)
+[PROJECT-2. Анализ вакансий из HeadHunter](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter/Project_2_Анализ_вакансий_HH.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter#оглавление)
 
 
 
