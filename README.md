@@ -7,5 +7,6 @@ From the [SkillFactory data science course](https://skillfactory.ru/data-scienti
 * [PY_13_Визуализация данных](https://github.com/Yul-Art/SF-DST/blob/main/PY13_Data_visualization.ipynb)
 * [PROJECT-1. Анализ резюме из HeadHunter](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter)
 * [PROJECT-2. Анализ вакансий из HeadHunter](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-2.%20Анализ%20вакансий%20из%20HeadHunter)
-* [PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle]
-## Ссылки резюме
+* [PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle)
+
+
