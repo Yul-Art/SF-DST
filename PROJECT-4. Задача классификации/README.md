@@ -1,17 +1,17 @@
 # PROJECT-4. Задача классификации
 
 ## Оглавление
-1. [Описание проекта](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle/README.md#описание-проекта)
-2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle/README.md#какой-кейс-решаем)
-3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle/README.md#краткая-информация-о-данных)
-4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle/README.md#этапы-работы-над-проектом)
-5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle/README.md#результат-и-выводы)
+1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#этапы-работы-над-проектом)
+5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#результат-и-выводы)
 
 
 ### Описание проекта
 Построение модели машинного обучения с предсказанием открытия депозита в банке клиентом.
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#оглавление)
 
 ### Какой кейс решаем?    
 Построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать, воспользуется он предложением об открытии депозита или нет.
@@ -37,12 +37,12 @@
 * оценивать качество модели
 * отбирать наиболее значимые предикторы
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#оглавление)
 
 ### Краткая информация о данных
 Данные о последней маркетинговой кампании, которую проводил банк: задачей было привлечь клиентов для открытия депозита. 
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#оглавление)
 
 ### Этапы работы над проектом 
 * Первичная обработка данных
@@ -51,12 +51,12 @@
 * Решение задачи классификации: логистическая регрессия и решающие деревья
 * Решение задачи классификации: ансамбли моделей и построение прогноза
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#оглавление)
 
 ### Результат и выводы 
-[PROJECT-4. Задача классификации](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle/PROJECT-3-EDA-feature-engineering.ipynb)
+[PROJECT-4. Задача классификации](https://github.com/Yul-Art/SF-DST/blob/main/PROJECT-4.%20Задача%20классификации/Project_4_ML.ipynb)
 
-:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle#оглавление)
+:arrow_up:[к оглавлению](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#оглавление)
 
 
 
