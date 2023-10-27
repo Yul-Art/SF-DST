@@ -10,6 +10,6 @@ From the [SkillFactory data science course](https://skillfactory.ru/data-scienti
 * [PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-3.%20EDA%20%2B%20Feature%20Engineering.%20Соревнование%20на%20Kaggle)
 * [ML-7. Прогнозирование биологического ответа](https://github.com/Yul-Art/SF-DST/blob/main/ML_7_Прогнозирование_биологического_ответа.ipynb)
 * [PROJECT-4. Задача классификации](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации)
-* [PROJECT-5. Задача регрессии]()
-* [PROJECT-6. Сегментирование клиентов онлайн-магазина подарков]()
+* [PROJECT-5. Задача регрессии](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-5.%20Задача%20регрессии#project-5-задача-регрессии)
+* [PROJECT-6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-6.%20Сегментирование%20клиентов#project-6-сегментирование-клиентов-онлайн-магазина-подарков)
 * [Итоговый проект: Государственные деньги у НКО]()

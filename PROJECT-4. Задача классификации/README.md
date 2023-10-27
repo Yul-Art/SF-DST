@@ -2,7 +2,7 @@
 
 ## Оглавление
 1. [Описание проекта](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#описание-проекта)
-2. [Бизнес-задача](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#какой-кейс-решаем)
+2. [Бизнес-задача](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#бизнес-задача)
 3. [Краткая информация о данных](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#краткая-информация-о-данных)
 4. [Этапы работы над проектом](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#этапы-работы-над-проектом)
 5. [Результат и выводы](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации#результат-и-выводы)
