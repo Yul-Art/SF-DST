@@ -16,3 +16,19 @@ data/train_sem09.zip
 PROJECT-4. Задача классификации/Project_4_ML_шаблон.ipynb
 PROJECT-4. Задача классификации/data/bank_fin.zip
 
+PROJECT-5. Задача регрессии/data/holiday_data.csv
+.gitignore
+PROJECT-5. Задача регрессии/data/Project5_train_data.zip
+PROJECT-5. Задача регрессии/data/weather_data.zip
+PROJECT-5. Задача регрессии/Project-5._Ноутбук-шаблон.ipynb
+PROJECT-5. Задача регрессии/data/osrm_data_train.zip
+PROJECT-5. Задача регрессии/data/Project5_osrm_data_test.zip
+PROJECT-5. Задача регрессии/data/Project5_test_data.zip
+PROJECT-5. Задача регрессии/data/submission_gb.csv
+
+*.json
+PROJECT-6. Сегментирование клиентов/Project-6._Ноутбук-шаблон.ipynb
+PROJECT-6. Сегментирование клиентов/data/customer_segmentation_project.csv
+PROJECT-6. Сегментирование клиентов/data/data_clear.csv
+Итоговый проект. Государственные деньги у НКО/main_df.csv
+Итоговый проект. Государственные деньги у НКО/Государственные деньги у НКО.ipynb
