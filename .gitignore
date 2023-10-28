@@ -1,34 +1,17 @@
-Other/.vscode/settings.json
-Other/pract.ipynb
+*.json
+*.csv
+*.zip
+.gitignore
+
 PROJECT-1. Анализ резюме из HeadHunter/Project-1. Ноутбук-шаблон.ipynb
-PROJECT-1. Анализ резюме из HeadHunter/data/dst-3.0_16_1_hh_database.csv
-PROJECT-1. Анализ резюме из HeadHunter/data/ExchangeRates.csv
-PROJECT-1. Анализ резюме из HeadHunter/data/dst-3.0_16_1_hh_database_clean.csv
 
-
-
-PROJECT-2. Анализ вакансий из HeadHunter/.vscode/settings.json
 PROJECT-2. Анализ вакансий из HeadHunter/Python_and_SQL.ipynb
 PROJECT-2. Анализ вакансий из HeadHunter/Project_2_Ноутбук_шаблон.ipynb
 
-PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle/Data/hotels.csv
-data/train_sem09.zip
 PROJECT-4. Задача классификации/Project_4_ML_шаблон.ipynb
-PROJECT-4. Задача классификации/data/bank_fin.zip
 
-PROJECT-5. Задача регрессии/data/holiday_data.csv
-.gitignore
-PROJECT-5. Задача регрессии/data/Project5_train_data.zip
-PROJECT-5. Задача регрессии/data/weather_data.zip
 PROJECT-5. Задача регрессии/Project-5._Ноутбук-шаблон.ipynb
-PROJECT-5. Задача регрессии/data/osrm_data_train.zip
-PROJECT-5. Задача регрессии/data/Project5_osrm_data_test.zip
-PROJECT-5. Задача регрессии/data/Project5_test_data.zip
-PROJECT-5. Задача регрессии/data/submission_gb.csv
 
-*.json
 PROJECT-6. Сегментирование клиентов/Project-6._Ноутбук-шаблон.ipynb
-PROJECT-6. Сегментирование клиентов/data/customer_segmentation_project.csv
-PROJECT-6. Сегментирование клиентов/data/data_clear.csv
-Итоговый проект. Государственные деньги у НКО/main_df.csv
+
 Итоговый проект. Государственные деньги у НКО/Государственные деньги у НКО.ipynb
