@@ -16,6 +16,6 @@ From the [SkillFactory data science course](https://skillfactory.ru/data-scienti
 
 * [PY_13_Визуализация данных](https://github.com/Yul-Art/SF-DST/blob/main/TASKS/PY13_Data_visualization.ipynb)
 * [EDA_homework](https://github.com/Yul-Art/SF-DST/blob/main/TASKS/EDA_homework.ipynb)
-* [ML-6._Задание 9.5._Отбор_признаков](https://github.com/Yul-Art/SF-DST/blob/main/TASKS/Задание_9_5_Модуль_ML_6.ipynb)
+* [ML-6._Задание 9.5._Отбор_признаков](https://github.com/Yul-Art/SF-DST/blob/main/TASKS/ML-6._Задание%209.5._Отбор_признаков.ipynb)
 * [ML-7. Прогнозирование биологического ответа](https://github.com/Yul-Art/SF-DST/blob/main/TASKS/ML_7_Прогнозирование_биологического_ответа.ipynb)
 * [MATH_ML_2__Практика__Регрессия](https://github.com/Yul-Art/SF-DST/blob/main/TASKS/MATH_ML_2__Практика__Регрессия.ipynb)
