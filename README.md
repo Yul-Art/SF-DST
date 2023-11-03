@@ -10,7 +10,7 @@ From the [SkillFactory data science course](https://skillfactory.ru/data-scienti
 * [PROJECT-4. Задача классификации](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-4.%20Задача%20классификации)
 * [PROJECT-5. Задача регрессии](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-5.%20Задача%20регрессии#project-5-задача-регрессии)
 * [PROJECT-6. Сегментирование клиентов онлайн-магазина подарков](https://github.com/Yul-Art/SF-DST/tree/main/PROJECT-6.%20Сегментирование%20клиентов#project-6-сегментирование-клиентов-онлайн-магазина-подарков)
-* [Итоговый проект: Государственные деньги у НКО]()
+* [Итоговый проект: Государственные деньги у НКО](https://github.com/Yul-Art/SF-DST/tree/main/Итоговый%20проект.%20Государственные%20деньги%20у%20НКО)
 
 ## Задания:
 
