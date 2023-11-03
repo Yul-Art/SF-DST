@@ -2,6 +2,8 @@
 *.csv
 *.zip
 .gitignore
+*.pkl
+*.joblib
 
 PROJECT-1. Анализ резюме из HeadHunter/Project-1. Ноутбук-шаблон.ipynb
 
@@ -13,5 +15,6 @@ PROJECT-4. Задача классификации/Project_4_ML_шаблон.ipy
 PROJECT-5. Задача регрессии/Project-5._Ноутбук-шаблон.ipynb
 
 PROJECT-6. Сегментирование клиентов/Project-6._Ноутбук-шаблон.ipynb
-Итоговый проект. Государственные деньги у НКО/model_opt_forest.joblib
-Итоговый проект. Государственные деньги у НКО/model_opt_forest_pkl.pkl
+
+Итоговый проект. Государственные деньги у НКО/Сериализация/model_opt_forest_pkl.pkl
+Итоговый проект. Государственные деньги у НКО/Сериализация/model_opt_forest.joblib
