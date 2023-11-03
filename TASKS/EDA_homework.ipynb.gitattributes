@@ -1,26 +1,10 @@
 {
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyPAE566w1ZZQ9jblCPs7IyR",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
   "cells": [
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
+        "colab_type": "text",
+        "id": "view-in-github"
       },
       "source": [
         "<a href=\"https://colab.research.google.com/github/Yul-Art/SF-DST/blob/main/EDA_homework.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
@@ -28,6 +12,9 @@
     },
     {
       "cell_type": "markdown",
+      "metadata": {
+        "id": "9LRTnw71DHUf"
+      },
       "source": [
         "**Домашнее задание**\n",
         "\n",
@@ -36,10 +23,7 @@
         "\n",
         "Также ответьте на вопрос:\n",
         "Какова разница в среднем размере мидии в зависимости от города-производителя. Обоснуйте выбор теста. Сделайте вывод по гипотезе.\n"
-      ],
-      "metadata": {
-        "id": "9LRTnw71DHUf"
-      }
+      ]
     },
     {
       "cell_type": "code",
@@ -54,9 +38,7 @@
     },
     {
       "cell_type": "code",
-      "source": [
-        "!pip install scipy"
-      ],
+      "execution_count": 2,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -64,24 +46,24 @@
         "id": "WHwc9FA6CJVs",
         "outputId": "38096c13-5d3f-46e3-edd6-7bb46ea3994e"
       },
-      "execution_count": 2,
       "outputs": [
         {
-          "output_type": "stream",
           "name": "stdout",
+          "output_type": "stream",
           "text": [
             "Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/\n",
             "Requirement already satisfied: scipy in /usr/local/lib/python3.10/dist-packages (1.10.1)\n",
             "Requirement already satisfied: numpy<1.27.0,>=1.19.5 in /usr/local/lib/python3.10/dist-packages (from scipy) (1.22.4)\n"
           ]
         }
+      ],
+      "source": [
+        "!pip install scipy"
       ]
     },
     {
       "cell_type": "code",
-      "source": [
-        "!pip install statsmodels"
-      ],
+      "execution_count": 3,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -89,11 +71,10 @@
         "id": "eNKPY9k6CJ_L",
         "outputId": "f45c04ea-11ab-4d46-b911-5db66579b866"
       },
-      "execution_count": 3,
       "outputs": [
         {
-          "output_type": "stream",
           "name": "stdout",
+          "output_type": "stream",
           "text": [
             "Looking in indexes: https://pypi.org/simple, https://us-python.pkg.dev/colab-wheels/public/simple/\n",
             "Requirement already satisfied: statsmodels in /usr/local/lib/python3.10/dist-packages (0.13.5)\n",
@@ -107,18 +88,14 @@
             "Requirement already satisfied: six in /usr/local/lib/python3.10/dist-packages (from patsy>=0.5.2->statsmodels) (1.16.0)\n"
           ]
         }
+      ],
+      "source": [
+        "!pip install statsmodels"
       ]
     },
     {
       "cell_type": "code",
-      "source": [
-        "# объединение массивов в DataFrame для вычисления корреляции\n",
-        "petersburg = pd.DataFrame([0.0974, 0.1352, 0.0817, 0.1016, 0.0968, 0.1064, 0.105])\n",
-        "magadan = pd.DataFrame([0.1033, 0.0915, 0.0781, 0.0685, 0.0677, 0.0697, 0.0764, 0.0689])\n",
-        "data = pd.concat([petersburg, magadan], names=['petersburg', 'magadan'], axis=1, ignore_index=True)\n",
-        "data.rename(columns={0: 'petersburg', 1: 'magadan'}, inplace=True)\n",
-        "data"
-      ],
+      "execution_count": 4,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -127,22 +104,9 @@
         "id": "DnmjpC7vCUTy",
         "outputId": "21526fbf-a8f0-4bbb-d468-c541a69fdc34"
       },
-      "execution_count": 4,
       "outputs": [
         {
-          "output_type": "execute_result",
           "data": {
-            "text/plain": [
-              "   petersburg  magadan\n",
-              "0      0.0974   0.1033\n",
-              "1      0.1352   0.0915\n",
-              "2      0.0817   0.0781\n",
-              "3      0.1016   0.0685\n",
-              "4      0.0968   0.0677\n",
-              "5      0.1064   0.0697\n",
-              "6      0.1050   0.0764\n",
-              "7         NaN   0.0689"
-            ],
             "text/html": [
               "\n",
               "  <div id=\"df-54b3aadc-f898-4f56-ac52-665497742f5d\">\n",
@@ -289,20 +253,36 @@
               "    </div>\n",
               "  </div>\n",
               "  "
+            ],
+            "text/plain": [
+              "   petersburg  magadan\n",
+              "0      0.0974   0.1033\n",
+              "1      0.1352   0.0915\n",
+              "2      0.0817   0.0781\n",
+              "3      0.1016   0.0685\n",
+              "4      0.0968   0.0677\n",
+              "5      0.1064   0.0697\n",
+              "6      0.1050   0.0764\n",
+              "7         NaN   0.0689"
             ]
           },
+          "execution_count": 4,
           "metadata": {},
-          "execution_count": 4
+          "output_type": "execute_result"
         }
+      ],
+      "source": [
+        "# объединение массивов в DataFrame для вычисления корреляции\n",
+        "petersburg = pd.DataFrame([0.0974, 0.1352, 0.0817, 0.1016, 0.0968, 0.1064, 0.105])\n",
+        "magadan = pd.DataFrame([0.1033, 0.0915, 0.0781, 0.0685, 0.0677, 0.0697, 0.0764, 0.0689])\n",
+        "data = pd.concat([petersburg, magadan], names=['petersburg', 'magadan'], axis=1, ignore_index=True)\n",
+        "data.rename(columns={0: 'petersburg', 1: 'magadan'}, inplace=True)\n",
+        "data"
       ]
     },
     {
       "cell_type": "code",
-      "source": [
-        "# заполним пропуск средним значением\n",
-        "data = data.fillna(data['petersburg'].mean())\n",
-        "data"
-      ],
+      "execution_count": 5,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -311,22 +291,9 @@
         "id": "KzfCxkLlNuEw",
         "outputId": "172838ee-4b78-4e28-dea9-53ff7efcfa7d"
       },
-      "execution_count": 5,
       "outputs": [
         {
-          "output_type": "execute_result",
           "data": {
-            "text/plain": [
-              "   petersburg  magadan\n",
-              "0    0.097400   0.1033\n",
-              "1    0.135200   0.0915\n",
-              "2    0.081700   0.0781\n",
-              "3    0.101600   0.0685\n",
-              "4    0.096800   0.0677\n",
-              "5    0.106400   0.0697\n",
-              "6    0.105000   0.0764\n",
-              "7    0.103443   0.0689"
-            ],
             "text/html": [
               "\n",
               "  <div id=\"df-c625ddfe-47b6-4ab8-8dd3-4b32a183f4de\">\n",
@@ -473,15 +440,37 @@
               "    </div>\n",
               "  </div>\n",
               "  "
+            ],
+            "text/plain": [
+              "   petersburg  magadan\n",
+              "0    0.097400   0.1033\n",
+              "1    0.135200   0.0915\n",
+              "2    0.081700   0.0781\n",
+              "3    0.101600   0.0685\n",
+              "4    0.096800   0.0677\n",
+              "5    0.106400   0.0697\n",
+              "6    0.105000   0.0764\n",
+              "7    0.103443   0.0689"
             ]
           },
+          "execution_count": 5,
           "metadata": {},
-          "execution_count": 5
+          "output_type": "execute_result"
         }
+      ],
+      "source": [
+        "# заполним пропуск средним значением\n",
+        "data = data.fillna(data['petersburg'].mean())\n",
+        "data"
       ]
     },
     {
       "cell_type": "code",
+      "execution_count": 6,
+      "metadata": {
+        "id": "Nx31qYnQMYlR"
+      },
+      "outputs": [],
       "source": [
         "# Сформулируем гипотезу для проверки данных на нормальность\n",
         "H0 = 'Данные распределены нормально'\n",
@@ -492,15 +481,28 @@
         "\n",
         "# Для небольшой выборки данных используем Тест Шапиро-Уилка\n",
         "from scipy.stats import shapiro"
-      ],
-      "metadata": {
-        "id": "Nx31qYnQMYlR"
-      },
-      "execution_count": 6,
-      "outputs": []
+      ]
     },
     {
       "cell_type": "code",
+      "execution_count": 7,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "g_fyJvS2M9eg",
+        "outputId": "5fcca376-a565-42c1-d7ae-51a3c7b80651"
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "p=0.123\n",
+            "Данные распределены нормально\n"
+          ]
+        }
+      ],
       "source": [
         "# Проверка данных Петербурга на нормальность\n",
         "_, p = shapiro(data.petersburg)\n",
@@ -512,28 +514,28 @@
         "\tprint(H0)\n",
         "else:\n",
         "\tprint(Ha)"
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "g_fyJvS2M9eg",
-        "outputId": "5fcca376-a565-42c1-d7ae-51a3c7b80651"
-      },
-      "execution_count": 7,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "p=0.123\n",
-            "Данные распределены нормально\n"
-          ]
-        }
       ]
     },
     {
       "cell_type": "code",
+      "execution_count": 8,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "3Wwp29vqNCj4",
+        "outputId": "0c7b6aa4-940a-419f-d455-8b96840c7ab3"
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "p=0.036\n",
+            "Данные не распределены нормально (мы отвергаем H0)\n"
+          ]
+        }
+      ],
       "source": [
         "# Проверка данных Магадана на нормальность\n",
         "_, p = shapiro(data.magadan)\n",
@@ -545,32 +547,11 @@
         "\tprint(H0)\n",
         "else:\n",
         "\tprint(Ha)"
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "3Wwp29vqNCj4",
-        "outputId": "0c7b6aa4-940a-419f-d455-8b96840c7ab3"
-      },
-      "execution_count": 8,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "p=0.036\n",
-            "Данные не распределены нормально (мы отвергаем H0)\n"
-          ]
-        }
       ]
     },
     {
       "cell_type": "code",
-      "source": [
-        "# Используем коэффициент корреляции Спирмена для числовых переменных, которые не распределены нормально\n",
-        "data.corr(method = 'spearman')"
-      ],
+      "execution_count": 9,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -579,16 +560,9 @@
         "id": "zk-eLobrRooA",
         "outputId": "86683d26-04a3-4376-8bf5-f0e2c4f196f3"
       },
-      "execution_count": 9,
       "outputs": [
         {
-          "output_type": "execute_result",
           "data": {
-            "text/plain": [
-              "            petersburg   magadan\n",
-              "petersburg    1.000000  0.166667\n",
-              "magadan       0.166667  1.000000"
-            ],
             "text/html": [
               "\n",
               "  <div id=\"df-61b1585e-828f-4b33-aba2-3d2c146b7cfc\">\n",
@@ -705,37 +679,65 @@
               "    </div>\n",
               "  </div>\n",
               "  "
+            ],
+            "text/plain": [
+              "            petersburg   magadan\n",
+              "petersburg    1.000000  0.166667\n",
+              "magadan       0.166667  1.000000"
             ]
           },
+          "execution_count": 9,
           "metadata": {},
-          "execution_count": 9
+          "output_type": "execute_result"
         }
+      ],
+      "source": [
+        "# Используем коэффициент корреляции Спирмена для числовых переменных, которые не распределены нормально\n",
+        "data.corr(method = 'spearman')"
       ]
     },
     {
       "cell_type": "markdown",
+      "metadata": {
+        "id": "U2UjtOe1SmSA"
+      },
       "source": [
         "**Вывод по корреляции:**\n",
         "\n",
         "Данные Петербурга распределены нормально, данные Магадана не распределены нормально.\n",
         "\n",
         "Корреляционная связь между данными признаками очень слабая."
-      ],
-      "metadata": {
-        "id": "U2UjtOe1SmSA"
-      }
+      ]
     },
     {
       "cell_type": "markdown",
-      "source": [
-        "Т.к. данные не распределены по нормальному закону, для сравнения средних значений выборок используем непараметрический тест для двух независимых групп - ранговый тест Уилкоксона"
-      ],
       "metadata": {
         "id": "kSDHWIzGRnYI"
-      }
+      },
+      "source": [
+        "Т.к. данные не распределены по нормальному закону, для сравнения средних значений выборок используем непараметрический тест для двух независимых групп - ранговый тест Уилкоксона"
+      ]
     },
     {
       "cell_type": "code",
+      "execution_count": 12,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "2Hq-tijFLo7g",
+        "outputId": "8fb24855-ebd3-46ea-ad65-abc4c884fe51"
+      },
+      "outputs": [
+        {
+          "name": "stdout",
+          "output_type": "stream",
+          "text": [
+            "0.0234375\n",
+            "Есть разница между средним размером раковины мидий в двух городах\n"
+          ]
+        }
+      ],
       "source": [
         "import scipy.stats as stats\n",
         "_ ,p = stats.wilcoxon(data.petersburg, y=data.magadan)\n",
@@ -754,33 +756,11 @@
         "\tprint(H0)\n",
         "else:\n",
         "\tprint(H1)"
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "2Hq-tijFLo7g",
-        "outputId": "8fb24855-ebd3-46ea-ad65-abc4c884fe51"
-      },
-      "execution_count": 12,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "0.0234375\n",
-            "Есть разница между средним размером раковины мидий в двух городах\n"
-          ]
-        }
       ]
     },
     {
       "cell_type": "code",
-      "source": [
-        "# определим разницу между средними значениями выборок\n",
-        "difference = data.petersburg.mean() - data.magadan.mean()\n",
-        "difference"
-      ],
+      "execution_count": 11,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -788,32 +768,59 @@
         "id": "hU6QQUG9TUh2",
         "outputId": "a3785bb0-173c-4ab9-a35e-0093a471bc45"
       },
-      "execution_count": 11,
       "outputs": [
         {
-          "output_type": "execute_result",
           "data": {
             "text/plain": [
               "0.025430357142857143"
             ]
           },
+          "execution_count": 11,
           "metadata": {},
-          "execution_count": 11
+          "output_type": "execute_result"
         }
+      ],
+      "source": [
+        "# определим разницу между средними значениями выборок\n",
+        "difference = data.petersburg.mean() - data.magadan.mean()\n",
+        "difference"
       ]
     },
     {
       "cell_type": "markdown",
+      "metadata": {
+        "id": "bIvyadNwUb4u"
+      },
       "source": [
         "**Вывод:**\n",
         "\n",
         "Ранговый тест Уилкоксона показал, что существует разница между средним размером раковины мидий в зависимости от города-производителя.\n",
         "\n",
         "Средний размер мидии Петербурга на 0,025 больше Магадана."
-      ],
-      "metadata": {
-        "id": "bIvyadNwUb4u"
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "authorship_tag": "ABX9TyPAE566w1ZZQ9jblCPs7IyR",
+      "include_colab_link": true,
+      "provenance": []
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "language": "python",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python",
+      "version": "3.11.0 (main, Oct 24 2022, 18:26:48) [MSC v.1933 64 bit (AMD64)]"
+    },
+    "vscode": {
+      "interpreter": {
+        "hash": "ac5b603ad70fb8863c4761353c44bd55e03a0a140618eafda58d56416747ff36"
       }
     }
-  ]
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
 }
